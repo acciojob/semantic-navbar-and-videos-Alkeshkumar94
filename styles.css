@@ -1,2 +1,14 @@
-
+ul{
+	display:flex;
+	justify-content:space-between;
+	background-color:black;
+	color:white;
+	list-style:none;
+	padding:20px;
+	font-size:30px;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
 /* Your CSS Code here. */
